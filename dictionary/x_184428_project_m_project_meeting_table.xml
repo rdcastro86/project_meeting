@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="Project Meeting Table" max_length="40" name="x_184428_project_m_project_meeting_table" type="collection"/>
+</database>
